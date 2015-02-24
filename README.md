@@ -6,6 +6,9 @@ These instructions assume that vim is already installed.
 1: run deploy.sh
 `./deploy.sh`
 
-2: Replace your .vimrc with the .vimrc in this repo
+NOTE: if that doesn't work, try making the script executable with
+`chmod u+x deploy.sh`
+
+2: replace your .vimrc with the .vimrc in this repo
 `mv .vimrc ~/.vimrc`
 
