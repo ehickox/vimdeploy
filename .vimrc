@@ -6,6 +6,8 @@ map <C-n> :NERDTreeToggle<CR>
 "" Line numbers
 set number
 
+set laststatus=2
+
 "" Some commmand mappings I like
 "" These let me navigate through line-wrapping
 map j gj
