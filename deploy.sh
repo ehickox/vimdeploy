@@ -12,3 +12,5 @@ sleep 1
 git clone https://github.com/bling/vim-airline.git
 sleep 1
 git clone git://github.com/altercation/vim-colors-solarized.git
+sleep 1
+git clone https://github.com/bronson/vim-crosshairs

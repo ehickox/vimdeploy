@@ -117,3 +117,6 @@ set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
 
+set cursorline " enable the horizontal line
+set cursorcolumn " enable the vertical line
+
