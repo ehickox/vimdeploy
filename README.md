@@ -10,5 +10,5 @@ NOTE: if that doesn't work, try making the script executable with
 `chmod u+x deploy.sh`
 
 2: replace your .vimrc with the .vimrc in this repo
-`mv .vimrc ~/.vimrc`
+`cp .vimrc ~/.vimrc`
 
